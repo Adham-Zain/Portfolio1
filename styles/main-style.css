@@ -591,6 +591,7 @@ button {
         border: none;
         font-size: 18px;
         padding: 0;
+        color: #000;
 
         &:hover {
             color: #FF305B;
